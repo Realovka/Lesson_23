@@ -1,0 +1,15 @@
+GET http://localhost:8080/?num1=11&num2=44&type=SUM
+
+###
+
+GET http://localhost:8080/?num1=22&num2=44&type=DIV
+
+###
+
+GET http://localhost:8080/?num1=11&num2=44&type=SUBTR
+
+###
+
+GET http://localhost:8080/?num1=11&num2=44&type=MULT
+
+###
